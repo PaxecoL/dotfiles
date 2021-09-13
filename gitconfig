@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rainey.lopes@gmail.com
+	name = Rainey Lopes
